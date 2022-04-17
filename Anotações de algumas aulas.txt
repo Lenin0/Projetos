@@ -1,0 +1,23 @@
+# Estrutura de Dados
+ - Estrutura de dados: Estrutura de dados é uma estrutura organizada de dados na memória de um computador ou alguma dispositivo de armazenamento, para que sejam ultilizadas de forma correta, como se fosse uma cidade. Essas estruturas encontram muitas aplicações no desenvolvimento de suistemas, porém algumas são altamente específicas.
+ - Algoritmos: Um algoritmo é um conjunto de instruções estruturadas e ordenadas, realizam uma tarefa específica. São ultilizados para manipular dados na estruturas de várias formas, ex:(inserir,excluir,procurar e ordenar dados).
+ - Principais estrutura de dados: Vetores e matrizes, registro, lista, pilha, fila, árvore, tabela hash, grafos.
+
+# Primeiros passos para desenvolvimento webe
+ - TCP/IP: Protocolo de comunicação entre computadores em rede; Protocolo de controle de transmissão; Protocolo de internet; Modelos de camadas.
+ - 4 camadas: Física (ex: Placa de rede); rede (ex: IP); trasporte (ex: TCP, UDP); Aplicações (ex: FTP, rmtp, HTTP).
+ - UDP: Rápido, porém não confiável; livestream.
+ - TCP: Voltado à conexão; confirmação de mensagem, integridade e ordem dos dados.
+ - Portas: 20:FTP; 22:SSH; 25:SMTP; 53:DNS: 80:HTTP: 443: HTTPS
+
+# GIT & Github
+ - Comandos básicos para Windows: cd; dir; mkdir; del; rmdir
+ - cd: Possibilita a navegação entre pastas
+ - dir: lista os diretórios
+ - ctrl l: limpa o terminal
+ - tab: Função de auto completar
+ - cd .. : volta
+ - mdkir: cria uma pasta
+ - echo: ele printa de volta no terminal uma frase/texto que você passa
+ - > : redirecionamento de fluxo
+ - sha1: Cripotgrafa
